@@ -1,0 +1,10 @@
+# Core Libraries
+pypdf2
+regex
+# AI/ML Libraries for local processing
+scikit-learn
+torch
+transformers
+sentence-transformers
+# Essential for fast search index
+faiss-cpu
